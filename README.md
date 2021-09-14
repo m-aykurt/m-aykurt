@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about Js-ReactJs
 - 📫 How to reach me: https://www.linkedin.com/in/murat-aykurt/
-- 😄 Pronouns: He
 
